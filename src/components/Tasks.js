@@ -1,4 +1,4 @@
-import Task from "/src/components/Task.js";
+import Task from "./Task";
 
 const Tasks = ({ tasks, onDelete, onDoubleClick }) => {
   return (
